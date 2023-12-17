@@ -47,7 +47,7 @@ The last **tagged** release includes the following components:
 * Node.js 18, npm, React Native
 * Ruby, RubyGems
 * fastlane
-* Flutter 3.7.7
+* Flutter 3.16.4
 * [jEnv](https://www.jenv.be)
 
 
